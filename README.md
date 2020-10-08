@@ -10,4 +10,4 @@ Convolutional networks were inspired by biological processes[7][8][9][10] in tha
 CNNs use relatively little pre-processing compared to other image classification algorithms. This means that the network learns the filters that in traditional algorithms were hand-engineered. This independence from prior knowledge and human effort in feature design is a major advantage.
 
 
-## This repository is a basic introduction towards the field of convolution neural networks. An individual can learn & test data structuring, model building, model testing against loss & validation loss parameters & classification of images.   
+## This repository is a basic introduction towards the field of convolution neural networks. 
